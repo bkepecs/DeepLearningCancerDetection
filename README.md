@@ -1,6 +1,6 @@
 # DeepLearningCancerDetection
 
-The goal of this project was to train a deep neural network to identify cancerous region in pathology images. The project was aimed at recreating the results of this paper using novel code and methods: https://arxiv.org/pdf/1703.02442.pdf.
+The goal of this project was to train a deep neural network in Tensorflow to identify cancerous region in pathology images. The project was aimed at recreating the results of this paper using novel code and methods: https://arxiv.org/pdf/1703.02442.pdf.
 
 The training dataset consisted of 10 gigapixel pathology images, each with two different magnification levels. The cancerous regions of each slide were labeled by a team of trained pathologists.
 
